@@ -1,16 +1,16 @@
 # -DECISION TREE IMPLEMENTATION
 
-#COMPANY#: CODTECH IT SOLUTIONS
+COMPANY: CODTECH IT SOLUTIONS
 
-#NAME#: NAREM M N S C GANESH
+NAME: NAREM M N S C GANESH
 
-#INTREN ID#: CT04DN542
+INTREN ID: CT04DN542
 
-#DOMAIN#: MACHINE LEARNING
+DOMAIN: MACHINE LEARNING
 
-#DURATION#: 4 WEEKS
+DURATION: 4 WEEKS
 
-#MENTOR#: NEELA SANTOSH
+MENTOR: NEELA SANTOSH
 
 
 
@@ -137,5 +137,5 @@ Deploying the model as a simple web application for healthcare professionals
 This project demonstrates the power of decision trees for creating interpretable classification models. While other algorithms might achieve marginally better accuracy, the transparency of decision trees provides valuable insights into the factors influencing diabetes risk. The comprehensive evaluation and visualization techniques showcased in this project can be applied to many other classification problems where model interpretability is important alongside predictive performance.
 
 
-#OUTPUT# -
+**OUTPUT** -
 ![Image](https://github.com/user-attachments/assets/faeb09c3-0e63-4c2f-9099-5ceac731b147)
